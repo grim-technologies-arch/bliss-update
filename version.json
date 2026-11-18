@@ -1,0 +1,9 @@
+{
+  "ui_version": "2.1.0",
+  "roblox_version": "version-2c6fd5e09aaf4cfa",
+  "download_url": "https://github.com/YOUR_USER/bliss-updates/releases/latest",
+  "changelog": [
+    "Updated offsets for latest Roblox build",
+    "Improved execution stability"
+  ]
+}
